@@ -1,3 +1,4 @@
+import "@/class-component-hooks";
 import { createApp } from 'vue'
 import App from './App.vue'
 import './registerServiceWorker'
